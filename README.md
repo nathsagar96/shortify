@@ -1,2 +1,2 @@
-# shortify-
+# shortify
 Shortify - URL Shortener
